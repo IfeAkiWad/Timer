@@ -2,7 +2,7 @@
 
 A little project to practice the concepts of React lifecycle methods and set interval.
 
-Available Scripts
+## Available Scripts
 In the project directory, you can run:
 
 npm start
